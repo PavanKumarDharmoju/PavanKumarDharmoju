@@ -25,7 +25,7 @@
 
 
 ## 💼 Experience
-
+- **Chan Zuckerberg Biohub**: AI Intern
 - **Deloitte USI, Hyderabad**: Business Technology Analyst
 
 ## 🎓 Education
