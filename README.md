@@ -2,7 +2,7 @@
 <h3>Welcome to my GitHub! I'm Pavan, an AI Engineer with a deep passion for data science and machine learning. I'm currently a Research Assistant at Northwestern University and the Feinberg School of Medicine, where I focus on innovative AI solutions.
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://pavankumardharmoju.me](https://pavandharmoju.tech)
+- 👨‍💻 All of my projects are available at [https://pavankumardharmoju.tech](https://pavandharmoju.tech)
 
 - 📝 I regularly write articles on [https://mlalchemist.blogspot.com/](https://mlalchemist.blogspot.com/)
 
