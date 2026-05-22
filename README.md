@@ -2,7 +2,7 @@
 <h3>Welcome to my GitHub! I'm Pavan, an AI Engineer with a deep passion for data science and machine learning. I'm currently a Research Assistant at Northwestern University and the Feinberg School of Medicine, where I focus on innovative AI solutions.
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://pavankumardharmoju.tech](https://pavandharmoju.tech)
+- 👨‍💻 All of my projects are available at [https://pixelsbypavan.com](https://pixelsbypavan.com)
 
 - 📝 I regularly write articles on [https://mlalchemist.blogspot.com/](https://mlalchemist.blogspot.com/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dharmojupavankumar@gmail.com**
 
-- 📄 Know about my experiences [https://pavankumardharmoju.me/pavankumardharmoju_resume.pdf](https://pavankumardharmoju.me/pavankumardharmoju_resume.pdf)
+- 📄 Know about my experiences [https://pixelsbypavan.com/pavankumardharmoju_resume.pdf](https://pixelsbypavan.com/pavankumardharmoju_resume.pdf)
 
 - ⚡ Fun fact **I am an avid photographer**
 
@@ -25,6 +25,7 @@
 
 
 ## 💼 Experience
+-**Marketing Attribution LLC**: AI Engineer
 - **Chan Zuckerberg Biohub**: AI Intern
 - **Deloitte USI, Hyderabad**: Business Technology Analyst
 
