@@ -25,7 +25,7 @@
 
 
 ## 💼 Experience
--**Marketing Attribution LLC**: AI Engineer
+- **Marketing Attribution LLC**: AI Engineer
 - **Chan Zuckerberg Biohub**: AI Intern
 - **Deloitte USI, Hyderabad**: Business Technology Analyst
 
